@@ -1,2 +1,2 @@
 # continuousdelivery
-Deployment done using Microsoft Azure.
+Deployment done using Microsoft Azure
